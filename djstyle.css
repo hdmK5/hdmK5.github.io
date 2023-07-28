@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+
+body{
+    text-align: center;
+    color: orangered;
+    background-color: black;
+}
+h1{
+    color: wheat;
+    font-family: 'Rubik Iso', cursive;
+}
+.dolboeb{
+    background-color: red;
+    color: black;
+}
